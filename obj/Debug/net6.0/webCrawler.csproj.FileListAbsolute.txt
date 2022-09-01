@@ -1,0 +1,5 @@
+/workspace/webCrawler/obj/Debug/net6.0/webCrawler.csproj.AssemblyReference.cache
+/workspace/webCrawler/obj/Debug/net6.0/webCrawler.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/webCrawler/obj/Debug/net6.0/webCrawler.AssemblyInfoInputs.cache
+/workspace/webCrawler/obj/Debug/net6.0/webCrawler.AssemblyInfo.cs
+/workspace/webCrawler/obj/Debug/net6.0/webCrawler.csproj.CoreCompileInputs.cache
